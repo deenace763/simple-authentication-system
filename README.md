@@ -12,6 +12,7 @@ Password confirmation during registration to prevent typos
 The system uses Django’s built-in authentication framework with custom forms and templates to provide a clean and user-friendly interface.
 
 Features
+
 User registration with username, email, and password fields
 
 Password confirmation validation
